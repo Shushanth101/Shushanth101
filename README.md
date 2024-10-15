@@ -3,7 +3,7 @@
 </div>  
   
 
-#                  Hi there! 👋 I'm Shushanth Mittapally  
+   #                  Hi there! 👋 I'm Shushanth Mittapally  
   
 
 #### <div align="center">I'm a Computer Science and Engineering student currently pursuing my B.Tech at Kakatiya Institute ofTchnology and Science. I have a passion for technology and enjoy working on projects that challenge and enhance my skills. Here's a little more about me:</div>  
