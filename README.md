@@ -1,110 +1,122 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-   #                  Hi there! 👋 I'm Shushanth Mittapally  
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Shushanth%20Mittapally&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI-Focused%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-#### <div align="center">I'm a Computer Science and Engineering student currently pursuing my B.Tech at Kakatiya Institute ofTchnology and Science. I have a passion for technology and enjoy working on projects that challenge and enhance my skills. Here's a little more about me:</div>  
-  
-
-- 🔭 I’m currently focused on expanding my knowledge in the field of computer science.  
-  
-
-- 🌱  I’m always learning and exploring new technologies to stay up-to-date with the latest industry trends.  
-  
-
-- 👯 I’m interested in collaborating on projects that involve innovative ideas and cutting-edge technologies.  
-  
-
-- 🤔 I'm open to suggestions and support from the tech community to further develop my skills and knowledge.  
-  
-
-- 😄 I'm particularly enthusiastic about working on projects related to Software industry and its applications.  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Programming Languages  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Front-End  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Back-End  
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="Express" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Shushanth101" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=650&lines=Building+agentic+AI+systems+with+LangGraph;RAG+Pipelines+%2B+Tool-Calling+%2B+LLM+Orchestration;ShellMate+%7C+CloudIDE+%7C+Multimodal+RAG;Shipping+production-ready+AI-powered+software" alt="Typing SVG" />
 </a>
-<a href="https://linkedin.com/in/shushanth mittapally" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/@SMittapally1146" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>  
+</div>
 
+<br/>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Shushanth101&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## 👨‍💻 About Me
 
-<br/>  
+- 🎓 **CS Undergraduate**(4th year) at **[Kakatiya Institute of Technology and Science, Warangal](https://www.kitsw.ac.in/)** (2023–2027)
+- 🤖 Passionate about **AI Engineering, Software Engineering, and Backend Development**
+- 🧠 Building **agentic AI systems**, RAG pipelines, LLM tool-calling, and multi-agent workflows
+- 💼 Former **AI Agent Developer Intern** at **[International Institute of SDGs and Public Policy Research (IISPPR)](https://iisppr.org/)**
+- ⚙️ Experienced with **Python, Node.js, React, Express.js, MongoDB, PostgreSQL, Docker, and LangGraph**
+- 🔍 Interested in **LLMs, AI Agents, Vector Databases, Multimodal AI, and Distributed Systems**
+- 🚀 Always building projects that combine AI with scalable software engineering
 
-  
+<br/>
 
-<br/>  
-
-
-
-<br/>  
+## Connect With Me
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Shushanth101&&style=flat-square" align="center" />
-</div>  
-  
 
-<br/>  
+<a href="https://github.com/Shushanth101" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/shushanth-mittapally-3a9ab6287" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:itsmeshus07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,js,java,react,nodejs,express,mongodb,postgres,git,docker,html,css&theme=dark" />
+
+<br/><br/>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ [CloudIDE](https://github.com/Shushanth101/cloud-ide)
+Cloud IDE that provisions isolated Docker containers per workspace, supporting Node.js, Python, Java, and Jupyter.
+Live file sync + interactive terminals via Monaco Editor, Socket.IO, and Xterm.js.
+
+`React` `Express.js` `Docker` `Socket.IO`
+
+</td>
+<td width="50%" valign="top">
+
+### 🐚 [ShellMate](https://github.com/Shushanth101/ShellMate-/tree/v3.1)
+AI-CLI coding agent orchestrating multi-step software engineering workflows with LangGraph + LangChain.
+Persistent PTY shell execution with MongoDB-backed state checkpointing and Gemini 2.5 Flash tool-calling.
+
+`Python` `LangGraph` `Gemini` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 [Multimodal RAG System](https://github.com/Shushanth101/multimodal-rag)
+Extracts and indexes text + document images into separate ChromaDB collections, exposing dedicated retrieval tools so the agent decides what to fetch at inference time.
+
+`Python` `LangGraph` `ChromaDB` `PyMuPDF`
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 [Course Discussion Forum](https://github.com/Shushanth101/coursediscussionforum)
+Scalable forum with nested comments and semantic search using embedding models for context-aware discussion retrieval, secured with JWT access/refresh tokens.
+
+`PostgreSQL` `FastAPI` `Express.js` `React`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Shushanth101/Shushanth101/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shushanth101&theme=tokyonight&hide_border=true"/>
+</p>
 
 
-<br />
 
-----
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Shushanth101&style=for-the-badge&color=2575fc" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+
+</div>
