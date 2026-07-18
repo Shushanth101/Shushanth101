@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Shushanth%20Mittapally&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI-Focused%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Shushanth%20Mittapally&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Software%20Engineer%20Aspirant&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=650&lines=Building+agentic+AI+systems+with+LangGraph;RAG+Pipelines+%2B+Tool-Calling+%2B+LLM+Orchestration;ShellMate+%7C+CloudIDE+%7C+Multimodal+RAG;Shipping+production-ready+AI-powered+software" alt="Typing SVG" />
