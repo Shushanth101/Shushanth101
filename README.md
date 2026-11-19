@@ -96,18 +96,11 @@ Scalable forum with nested comments and semantic search using embedding models f
 
 <br/>
 
-
-
-<br/>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shushanth101&theme=tokyonight&hide_border=true"/>
-</p>
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Shushanth101&style=for-the-badge&color=2575fc" />
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
 
