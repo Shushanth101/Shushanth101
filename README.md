@@ -96,20 +96,13 @@ Scalable forum with nested comments and semantic search using embedding models f
 
 <br/>
 
-## 🐍 Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Shushanth101/Shushanth101/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
-</div>
 
 <br/>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Shushanth101&theme=tokyonight&hide_border=true"/>
 </p>
-
-
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Shushanth101&style=for-the-badge&color=2575fc" />
